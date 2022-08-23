@@ -1,7 +1,7 @@
 Hi 👋 My name is Karlo
 ======================
 
-Softvare developer from Croatia
+Software developer from Croatia
 -------------------------------
 
 *   🌍  I'm based in Zagreb, Croatia
