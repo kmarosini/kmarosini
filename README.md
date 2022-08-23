@@ -6,7 +6,7 @@ Softvare developer from Croatia
 
 *   🌍  I'm based in Zagreb, Croatia
 *   ✉️  You can contact me at [karlomarosini14@gmail.com](mailto:karlomarosini14@gmail.com)
-*   🧠  I'm learning Web development
+*   🧠  I'm currently learning Web development
 
 ### Skills
 <p align="left">
