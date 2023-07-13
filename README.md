@@ -8,6 +8,8 @@ Software developer from Croatia
 *   ✉️  You can contact me at [karlomarosini14@gmail.com](mailto:karlomarosini14@gmail.com)
 *   🧠  I'm currently learning Web development
 
+![](https://komarev.com/ghpvc/?username=kmarosini)
+
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
