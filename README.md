@@ -41,7 +41,7 @@ Other:
 </p>
 
 ## 📫 Contact Me 
-karlo.marosini14@gmail.com(mailto:karlo.marosini14@gmail.com)
+mailto:karlo.marosini14@gmail.com
 
 <p align="left">
   <strong>Or reach out to me on the following socials</strong><br/>
